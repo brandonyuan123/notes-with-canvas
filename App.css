@@ -1,0 +1,37 @@
+h1 {
+  /*background-color: rgb(83, 83, 95);
+  */
+  text-align: center;
+  background: linear-gradient(90deg, #2072f5, #da61ff);
+  display:grid;
+  text-shadow: -1px 1px 10px rgba(248, 234, 234, 0.75);
+  color:rgb(170, 8, 8);
+  font-size: 50px;
+  font-family:'Times New Roman', Times, serif;
+ 
+}
+
+
+#container
+{
+  border-radius: 30px;
+  border-style:solid;
+  text-align:center;
+  margin: 30px 30px 90px 500px;
+  padding: 25px 10px 10px 10px;
+  height:100px;
+  width:500px;
+  color: black;
+  background: linear-gradient(90deg, #2072f5, #da61ff);
+}
+
+h2{
+  color: red;
+}
+
+
+  
+  
+  
+
+
